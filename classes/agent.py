@@ -24,6 +24,9 @@ now and give it to the checkpoint tool. It replaces your whole conversation: aft
 prompt with this checkpoint in it, so put in everything you need to go on. It also replaces your previous checkpoint
 (in your system prompt, if there is one): carry over everything from it that is still true. Call only the checkpoint
 tool in this reply. Short bullets, facts not stories, exactly these sections:
+## Summary
+3-15 sentences: what this whole conversation has been about so far, including what earlier checkpoints covered,
+and where things stand now. Written so someone with no context understands it
 ## Goal
 what the user wants, and what "done" means
 ## Decisions
